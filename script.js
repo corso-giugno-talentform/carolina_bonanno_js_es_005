@@ -1,5 +1,5 @@
 // Esercizio 1
-// const title = document.querySelector('#titolo-principale');
+const title = document.querySelector('#titolo-principale');
 // const button = document.querySelector('button'); 
 
 // Esercio 2
